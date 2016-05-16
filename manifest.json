@@ -13,6 +13,7 @@
 
   "permissions": [
   ],
+  "options_page": "configs.html",
 
   "web_accessible_resources": ["content.js", "injected.js"]
 }
